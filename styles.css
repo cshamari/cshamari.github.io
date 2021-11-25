@@ -1,4 +1,5 @@
 /* Master Styles */
+@media(min-width:700px){
 body {
     margin: 10px;
 
@@ -89,5 +90,5 @@ body {
     transition: 1s;
     filter: brightness(10%);
 }
-
+}
 
